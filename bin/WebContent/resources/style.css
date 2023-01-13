@@ -1,0 +1,33 @@
+body {
+	font-family: sans-serif;
+}
+
+.placardList h1 {
+	font-size: 16pt;
+}
+
+.placardList ul {
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+.placardList ul li:first-child {
+	border-top: 0px;
+}
+
+.placardList ul li {
+	border-top: 1px solid #cccccc;
+}
+
+.placardTime {
+	font-size: 8pt;
+}
+
+.placardLocation {
+	font-size: 8pt;
+}
+
+.placardForm h1 {
+	font-size: 16pt;
+}
